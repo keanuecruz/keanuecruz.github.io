@@ -53,7 +53,7 @@ body{
 	display: grid;
 	border-radius: 10px;
 	padding: 10px;
-	padding-bottom: 30px;
+	margin-bottom: 20px;
 	}
 
 .links{
@@ -69,6 +69,7 @@ body{
 }
 .d4d-1{
 	text-align: center;
+	color:
 }
 
 #d4d-2{
@@ -83,7 +84,7 @@ body{
 	text-align: center;
 	font-size: 20px;
 }
-.title, .list,.byline{
+.title, .list,.byline, .d4d-1{
 	color: rgb(166, 13, 39);
 }
 
@@ -123,6 +124,9 @@ body{
 
 }
 
+#cp_widget_d1bd1cb8-d7fc-4ca5-a8a9-5c06500e5157{
+	margin: auto;
+}
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
