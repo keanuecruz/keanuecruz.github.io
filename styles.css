@@ -70,8 +70,9 @@ body{
 	text-align: center;
 }
 
-.d4d-2{
+#d4d-2{
 	margin: 0 auto;
+	width: 50%;
 }
 
 .list{
