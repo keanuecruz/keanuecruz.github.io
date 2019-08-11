@@ -74,6 +74,7 @@ body{
 #d4d-2{
 	margin: auto;
 	width: 50%;
+	position: relative;
 }
 
 .list{
