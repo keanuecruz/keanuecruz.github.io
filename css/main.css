@@ -2193,7 +2193,7 @@ header .logo a {
 }
 #stats .row {
 max-width: 1440px;
-transform: translate(7%);
+transform: translate(8%);
 }
 #stats .stat {
 	border-left: 1px solid rgba(255, 255, 255, 0.12);
